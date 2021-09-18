@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3856044076766999676
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9068644006941888508, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_Name
+      value: Tower 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291318248280221231, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: _towerPlace
+      value: 
+      objectReference: {fileID: 3391737548671560897}
+    - target: {fileID: 4291318248280221231, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: _towerHead
+      value: 
+      objectReference: {fileID: 5427993843369071810}
+    - target: {fileID: 4291318248280221231, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: _bulletPrefab
+      value: 
+      objectReference: {fileID: 1935898297957477736, guid: faf76ebfce76cf345a99d16ea30ca260,
+        type: 3}
+    - target: {fileID: 9139897165965385918, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8d5cf5036feb7ca45b580a0f37eb2322,
+        type: 3}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6990026306964035285, guid: 051dd14bd6c749642b63d94fa54e654d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 051dd14bd6c749642b63d94fa54e654d, type: 3}
+--- !u!212 &3391737548671560897 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1914791789602937021, guid: 051dd14bd6c749642b63d94fa54e654d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3856044076766999676}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &5427993843369071810 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 9139897165965385918, guid: 051dd14bd6c749642b63d94fa54e654d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3856044076766999676}
+  m_PrefabAsset: {fileID: 0}
